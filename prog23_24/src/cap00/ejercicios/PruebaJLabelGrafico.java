@@ -1,4 +1,4 @@
-package tema0;
+package cap00.ejercicios;
 
 import javax.swing.*;
 import java.awt.*;
